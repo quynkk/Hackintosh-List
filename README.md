@@ -3,6 +3,15 @@
 List of laptop have EFI are available for hackintosh 
 
 ⚠️ Notice: Please READ CAREFULLY README.TXT which contain in EFI file!
+- Desktop List
+
+| Mainboard | CPU + GPU | Bootloader | Link | Note |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| H81M-DS2 | i5-4590 + GT740 (GK107) | OpenCore 0.7.4 |[Link]() | |
+
+
+- Laptop List:
+
 | Laptop - Model | CPU Generation | Bootloader | Link | Note |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dell Latitude E6410 | Arrandale i5-520M | Clover R5138 |[Link](https://github.com/quynkk5/Hackintosh-List/blob/31d0088d24a6b90676f079f5f89239c9664b3ddd/EFI/Dell%20Latitude%20E6410.zip) | Incomplete |
