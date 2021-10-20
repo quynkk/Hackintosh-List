@@ -7,7 +7,7 @@ List of laptop have EFI are available for hackintosh
 
 | Mainboard | CPU + GPU | Bootloader | Link | Note |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| H81M-DS2 | i5-4590 + GT740 (GK107) | OpenCore 0.7.4 |[Link]() | |
+| Gigabyte H81M-DS2 | i5-4590 + GT740 (GK107) | OpenCore 0.7.4 |[Link]() | |
 
 
 - Laptop List:
